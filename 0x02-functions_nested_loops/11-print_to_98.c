@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "6-abs.c"
 #include "main.h"
 /**
  * print_to_98 - functions that printst prints numbers from n to 98.
