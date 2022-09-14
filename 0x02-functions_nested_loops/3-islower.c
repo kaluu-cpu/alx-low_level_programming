@@ -4,7 +4,7 @@
  *
  * @c: single letter input
  *
- * return: 1 if c is lowercaser, otherwise, 0.
+ * return: 0 or 1.
  */
 int _islower(int c)
 {
