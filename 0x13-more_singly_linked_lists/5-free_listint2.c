@@ -2,9 +2,9 @@
 #include "lists.h"
 
 /**
-  * free_listint2 - frees memory allocated to linked list 
+  * free_listint2 - frees memory allocated to linked list
   * and assign value 0 to head
-  * @head: first node of linked list
+  * @head: first node of the  linked list
   *
   * Return: Nothing
   */
